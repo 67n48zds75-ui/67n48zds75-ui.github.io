@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://67n48zds75-ui.github.io/-/sitemap.xml
